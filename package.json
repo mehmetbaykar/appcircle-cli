@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appcircleio/appcircle-cli.git"
+    "url": "git+https://github.com/mehmetbaykar/appcircle-cli.git"
   },
   "keywords": [
     "appcircle",
@@ -30,9 +30,9 @@
   "author": "Appcircle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/appcircleio/appcircle-cli/issues"
+    "url": "https://github.com/mehmetbaykar/appcircle-cli/issues"
   },
-  "homepage": "https://github.com/appcircleio/appcircle-cli#readme",
+  "homepage": "https://github.com/mehmetbaykar/appcircle-cli#readme",
   "dependencies": {
     "axios": "^1.3.4",
     "chalk": "^4.1.1",
